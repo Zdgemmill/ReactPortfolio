@@ -1,8 +1,30 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# No license selected
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# This application is designed to ask the user a series of prompts to create a fully generated readme.md file for the user. 
+
+## Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributors](#contributors)
+4. [License](#license)
+5. [Tests](#tests)
+6. [Questions](#questions)
+
+
+## Usage
+This is My portfolio showcasing my projects.
+## Contributors
+None
+
+## License
+This project is licensed under the None License.
+
+## Tests
+
+
+## Questions
+For questions about this project, please contact https://github.com/Zdgemmill at zdgemmill@gmail.com.
